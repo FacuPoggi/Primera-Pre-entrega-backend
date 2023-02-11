@@ -8,4 +8,3 @@
 {"id":8,"title":"Notebook Lenovo","description":"Notebook Lenovo","price":7000,"thumbnail":["public/img/notebook-lenovo.jpg"],"code":"aaah","stock":526,"status":true,"category":"Laptop"},
 {"id":9,"title":"parlante Kalley","description":"Parlante","price":4000,"thumbnail":["public/img/parlante-kalley.jpg"],"code":"aaai","stock":32,"status":true,"category":"Electrodomestico"},
 {"id":10,"title":"HP Pavilion","description":"Impresora marca HP","price":3000,"thumbnail":["public/img/hp.pavilion.jpg"],"code":"aaaj","stock":22,"status":true,"category":"Electrodomestico"}]
-

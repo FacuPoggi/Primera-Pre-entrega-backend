@@ -154,27 +154,15 @@ export class CartManager {
 }
 
 
-// const manager = new CartManager("../models/carts.json");
+/* const manager = new CartManager("src/models/carts.json");
 
-// const tests = async ()=>{
-//     await manager.crearArchivo();
-//     await manager.crearCarritoVacio();
-//     await manager.crearCarritoVacio();
+const tests = async () => {
+    await manager.crearArchivo();
+    //await manager.crearCarritoVacio();
+    await manager.addProductToCart(1, 1, 2);
+    await manager.addProductToCart(1, 9, 60);
+    await manager.addProductToCart(1, 2, 60);
+    console.log(await manager.getAllCartProducts(1))
+}
 
-//     await manager.crearCarritoVacio();
-
-//     await manager.crearCarritoVacio();
-//     await manager.crearCarritoVacio();
-//     await manager.crearCarritoVacio();
-//     await manager.crearCarritoVacio();
-//     await manager.addProductToCart(1,1,2);
-//     await manager.addProductToCart(1,9,60);
-//     await manager.addProductToCart(1,2,60);
-//     console.log(await manager.getAllCartProducts(1))
-
-//     // console.log(await manager.getAllCartProducts(1));
-
-
-// }
-
-// tests();
+tests(); */
